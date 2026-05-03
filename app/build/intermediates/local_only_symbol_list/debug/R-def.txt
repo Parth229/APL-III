@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color white
+drawable currency_icon_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id amountType
+id btn
+id fromCurrencyLabel
+id fromCurrencySpinner
+id main
+id toCurrencyLabel
+id toCurrencySpinner
+layout activity_main
+mipmap currency_icon
+mipmap currency_icon_foreground
+mipmap currency_icon_round
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Currency_Converter
+style Theme.Currency_Converter
+xml backup_rules
+xml data_extraction_rules
